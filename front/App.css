@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  background: #002966;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-top: 15px;
+  height: 100px;
+}
+.navbar {
+  background-color: #458cf8;
+  height: 100px;
+}
+.Nozama {
+  width: 106px;
+  margin-top: 34px;
+  margin-left: 15px;
+}
+.compte,
+.Panier {
+  margin-top: 44px;
+  margin-right: 30px;
+  float: right;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 18px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  /* primary grey */
+  color: #d9d7d7;
+}
+.usericon {
+  margin-left: 10px;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  color: #d9d7d7;
+}
+footer a {
+  color: #d9d7d7;
+}
